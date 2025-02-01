@@ -1,0 +1,1 @@
+json-server --whatch api-artists/artists.json --port 3000
